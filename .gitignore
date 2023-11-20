@@ -1,0 +1,9 @@
+*CUI*
+*cui*
+*wiki1m*
+build/
+data/
+__pycache__/
+*.index
+search/
+generated_queries_all.tsv
